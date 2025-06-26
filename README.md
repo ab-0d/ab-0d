@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There!%20I'm%20Abdullah%20👋&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hello%20World!%20I'm%20Abdullah%20👋&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="banner" />
 
 ## 👨‍💻 About Me
 
